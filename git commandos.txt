@@ -1,0 +1,7 @@
+git commandos
+
+(PRIMERO) git add .
+
+(COMENTAR) git commit -m "tu comentario"
+
+(ENVIAR) git push origin main
