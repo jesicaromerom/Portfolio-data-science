@@ -24,6 +24,7 @@ hypothesis_testing.py:Caso paramétrico: Test t de Student / ANOVA con correccio
 mle_fitting.py: Ajuste de distribuciones teóricas (Gamma, Weibull, Log-Normal) mediante Estimación de Máxima Verosimilitud (MLE) y evaluación con pruebas de bondad de ajuste ($Kolmogorov\text{-}Smirnov$, $Anderson\text{-}Darling$).
 
 bootstrap_intervals.py: Construcción de Intervalos de Confianza no paramétricos mediante métodos Bootstrap (Percentil y BCa — Bias-Corrected and Accelerated) para métricas complejas como el percentil 95 o la razón de varianzas.
+
 ---
 
 # Machine learning
